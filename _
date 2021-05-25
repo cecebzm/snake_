@@ -1,5 +1,5 @@
-# Snake Game!
-# by root
+# Snake Game
+# by cecebzm
  
 # our game imports
 import pygame, sys, random, time
@@ -14,7 +14,7 @@ else:
  
 # Play surface
 playSurface = pygame.display.set_mode((720, 460))
-pygame.display.set_caption('Snake game!')
+pygame.display.set_caption('Jeu de serpent')
  
 # Colors
 red = pygame.Color(255, 0, 0) # gameover
